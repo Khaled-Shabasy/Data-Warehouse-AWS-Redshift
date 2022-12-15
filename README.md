@@ -9,7 +9,7 @@ The main role is to build an ETL pipeline that extracts their data from S3, stag
 
 ### This project uses the star schema as follows:
 
-[alt text](project schema.png)
+![alt text](project_schema.png)
 
 ### Creating Sparkify Database and Tables
 
