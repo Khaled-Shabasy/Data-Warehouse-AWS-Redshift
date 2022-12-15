@@ -1,0 +1,5 @@
+project.zip
+workspace
+backups
+__pycache__
+.ipynb_checkpoints
